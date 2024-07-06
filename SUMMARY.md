@@ -6,5 +6,8 @@
 
 * [Wallet WebApp](products/wallet-webapp.md)
 * [Wallet Mobile](products/wallet-mobile.md)
-* [Wallet SDK](products/wallet-sdk.md)
 * [Recovery](products/recovery.md)
+
+## Developer Guild
+
+* [Wallet SDK](developer-guild/wallet-sdk.md)
