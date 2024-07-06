@@ -1,5 +1,5 @@
 ---
-description: Gateway to Blockchain technology
+description: Gateway to Viction World Wide Chain
 ---
 
 # Introduction
