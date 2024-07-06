@@ -4,5 +4,7 @@
 
 ## Products
 
-* [Abstraction Wallet](products/abstraction-wallet.md)
-* [Abstraction Wallet SDK](products/abstraction-wallet-sdk.md)
+* [Wallet WebApp](products/wallet-webapp.md)
+* [Wallet Mobile](products/wallet-mobile.md)
+* [Wallet SDK](products/wallet-sdk.md)
+* [Recovery](products/recovery.md)
